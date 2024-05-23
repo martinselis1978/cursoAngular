@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Flash",
+      "publisher": "DC Comics",
+      "alter_ego": "Jay Garrick",
+      "first_appearance": "Flash Comics #1",
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+    },
+    {
+      "id": "dc-green",
+      "superhero": "Green Lantern",
+      "publisher": "DC Comics",
+      "alter_ego": "Alan Scott",
+      "first_appearance": "All-American Comics #16",
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen"
+    },
+    {
+      "id": "dc-wonder",
+      "superhero": "Wonder Woman",
+      "publisher": "DC Comics",
+      "alter_ego": "Princess Diana",
+      "first_appearance": "All Star Comics #8",
+      "characters": "Princess Diana"
+    },
+    {
+      "id": "dc-martian",
+      "superhero": "Martian Manhunter",
+      "publisher": "DC Comics",
+      "alter_ego": "J\"onn J\"onzz",
+      "first_appearance": "Detective Comics #225",
+      "characters": "Martian Manhunter"
+    },
+    {
+      "id": "dc-robin",
+      "superhero": "Robin/Nightwing",
+      "publisher": "DC Comics",
+      "alter_ego": "Dick Grayson",
+      "first_appearance": "Detective Comics #38",
+      "characters": "Dick Grayson"
+    },
+    {
+      "id": "dc-blue",
+      "superhero": "Blue Beetle",
+      "publisher": "DC Comics",
+      "alter_ego": "Dan Garret",
+      "first_appearance": "Mystery Men Comics #1",
+      "characters": "Dan Garret, Ted Kord, Jaime Reyes"
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Black Canary",
+      "publisher": "DC Comics",
+      "alter_ego": "Dinah Drake",
+      "first_appearance": "Flash Comics #86",
+      "characters": "Dinah Drake, Dinah Lance"
+    },
+    {
+      "id": "marvel-spider",
+      "superhero": "Spider Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Peter Parker",
+      "first_appearance": "Amazing Fantasy #15",
+      "characters": "Peter Parker"
+    },
+    {
+      "id": "marvel-captain",
+      "superhero": "Captain America",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Steve Rogers",
+      "first_appearance": "Captain America Comics #1",
+      "characters": "Steve Rogers"
+    },
+    {
+      "id": "marvel-iron",
+      "superhero": "Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Tony Stark",
+      "first_appearance": "Tales of Suspense #39",
+      "characters": "Tony Stark"
+    },
+    {
+      "id": "marvel-thor",
+      "superhero": "Thor",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Thor Odinson",
+      "first_appearance": "Journey into Myster #83",
+      "characters": "Thor Odinson"
+    },
+    {
+      "id": "marvel-hulk",
+      "superhero": "Hulk",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Bruce Banner",
+      "first_appearance": "The Incredible Hulk #1",
+      "characters": "Bruce Banner"
+    },
+    {
+      "id": "marvel-wolverine",
+      "superhero": "Wolverine",
+      "publisher": "Marvel Comics",
+      "alter_ego": "James Howlett",
+      "first_appearance": "The Incredible Hulk #180",
+      "characters": "James Howlett"
+    },
+    {
+      "id": "marvel-daredevil",
+      "superhero": "Daredevil",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Matthew Michael Murdock",
+      "first_appearance": "Daredevil #1",
+      "characters": "Matthew Michael Murdock"
+    },
+    {
+      "id": "marvel-hawkeye",
+      "superhero": "Hawkeye",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Clinton Francis Barton",
+      "first_appearance": "Tales of Suspense #57",
+      "characters": "Clinton Francis Barton"
+    },
+    {
+      "id": "marvel-cyclops",
+      "superhero": "Cyclops",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Scott Summers",
+      "first_appearance": "X-Men #1",
+      "characters": "Scott Summers"
+    },
+    {
+      "id": "marvel-silver",
+      "superhero": "Silver Surfer",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Norrin Radd",
+      "first_appearance": "The Fantastic Four #48",
+      "characters": "Norrin Radd"
+    },
+    {
+      "id": "7W13Y8F",
+      "superhero": "Super Martin",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Martin Selis",
+      "first_appearance": "Comic queeee #1",
+      "characters": "Martin",
+      "alt_img": "data:image/webp;base64,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"
+    }
+  ]
+}
